@@ -1,0 +1,5 @@
+.scrollPage{
+    flex: 1;
+    overflow: scroll;
+    margin-bottom: .88rem;
+}
